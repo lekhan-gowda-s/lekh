@@ -1,0 +1,2 @@
+# lekh
+basic code
